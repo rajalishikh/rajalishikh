@@ -4,7 +4,7 @@ I am a highly skilled web developer with a strong focus on JavaScript, HTML, and
 
 Skills: Html5/CSS3/JavaScript/Dom/ES6/Tailwind CSS/Daisy-UI/React/Microsoft Word/Microsoft PowerPoint
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning MERN STACK DEELOPMENT 
 - 👯 I’m looking to collaborate on  Git-Hub 
 
