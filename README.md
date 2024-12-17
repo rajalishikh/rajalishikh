@@ -21,7 +21,3 @@ Skills: Html5/CSS3/JavaScript/Dom/ES6/Tailwind CSS/Daisy-UI/React/Microsoft Word
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rajalishikh/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/rajalishikh)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rajalishikh)  
-
