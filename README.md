@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Raj Ali Sheikh
-#### I am web developer
+####  web developer
 I am a highly skilled web developer with a strong focus on JavaScript, HTML, and CSS, along with expertise in creating responsive and interactive websites. My ability to build clean, efficient code ensures that websites are both functional and visually appealing across all devices.
 
 Skills: Html5/CSS3/JavaScript/Dom/ES6/Tailwind CSS/Daisy-UI/React/Microsoft Word/Microsoft PowerPoint
