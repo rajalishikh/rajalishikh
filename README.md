@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Raj Ali Sheikh
 ###
 I am a passionate Software Developer with good skills in JavaScript and growing experience in Python. I enjoy writing clean and simple code and can build applications that work quickly and efficiently. I am eager to learn new technologies and improve my skills by working on real-world projects. I want to be part of a good team where I can take on new challenges and keep improving myself.
-Skills: Html5/CSS3/JavaScript/PYTHON/Dom/ES6/API/DOM/Tailwind CSS/Daisy-UI/React/Microsoft Word/Microsoft PowerPoint
+Skills: Html5/CSS3/JavaScript/Python/Dom/ES6/API/DOM/Tailwind CSS/Daisy-UI/React/Microsoft Word/Microsoft PowerPoint
 
 
 - 🌱 I’m currently learning MERN STACK DEELOPMENT 
